@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - money
+  - wall
+  - stationame
+  - finish
+  - 1
+  - 2
+  - "F\u0131nd\u0131kl\u0131"
+  - Tophane
+  - "Karek\xF6y"
+  - "\xC7ay\u0131rova"
+  - Tuzla
+  - "\u0130\xE7meler"
+  - Findikli
+  - Karekoy
+  - Cayirova
+  - Icmeler
+  - F2
+  - "Eminon\xFC"
+  - advertisement
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
