@@ -1,5 +1,5 @@
 # hyper-casual-train
-It is a game that can be played on mobile devices.
+It is a game that can be played on mobile devices.It makes the character go by choosing the tram and metro lines in Istanbul.
 
 ![image](https://user-images.githubusercontent.com/62395974/207936883-a24e5383-3ae3-46ab-be36-e9f905560a27.png)
 
@@ -13,6 +13,6 @@ It is a game that can be played on mobile devices.
 
 
 
-![image](https://user-images.githubusercontent.com/62395974/207937885-e5a4d185-85fc-45a7-b4b0-017cd7cdfde0.png)
+
 
 
