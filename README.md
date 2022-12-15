@@ -3,8 +3,16 @@ It is a game that can be played on mobile devices.
 
 ![image](https://user-images.githubusercontent.com/62395974/207936883-a24e5383-3ae3-46ab-be36-e9f905560a27.png)
 
-![image](https://user-images.githubusercontent.com/62395974/207936906-be37522f-d61f-4949-b349-682b8e37d236.png)
 
 
+![image](https://user-images.githubusercontent.com/62395974/207937744-49f9ce72-6ab3-4bcf-9bd4-f0084aa9bfb8.png)
+
+
+
+![image](https://user-images.githubusercontent.com/62395974/207937863-1aab51b4-983f-4432-8c55-3a833289a1c2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/62395974/207937885-e5a4d185-85fc-45a7-b4b0-017cd7cdfde0.png)
 
 
