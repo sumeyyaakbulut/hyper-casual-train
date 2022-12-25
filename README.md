@@ -17,6 +17,7 @@ It is a game that can be played on mobile devices.It makes the character go by c
 
 ![image](https://user-images.githubusercontent.com/62395974/207939607-db6f98fa-e3a6-44e9-b8f8-9c11d3cc0d43.png)
 
+![image](https://user-images.githubusercontent.com/62395974/209465493-36505004-eb87-4d76-990e-6f1076ffadbe.png)
 
 
 
